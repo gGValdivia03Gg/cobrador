@@ -1,0 +1,23 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f8f9fa;
+}
+
+h1 {
+    color: #343a40;
+}
+
+#product-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+#product-list li {
+    background: #ffffff;
+    margin: 5px 0;
+    padding: 10px;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+}
